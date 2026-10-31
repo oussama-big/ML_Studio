@@ -1,0 +1,13 @@
+# Environnement et variables
+venv/
+env/
+.env
+
+# Caches Python
+__pycache__/
+*.pyc
+
+# Fichiers locaux du projet
+exports/
+outputs/
+*.pkl
